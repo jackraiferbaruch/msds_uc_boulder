@@ -19,6 +19,8 @@ Current topics and sub-topics:
   * Functions
   * Recurssion
   * Regex
+  * Event Driven Programing
+  * Object Oriented Programing
   
 - Algorithms
   * Algorithms for Indexing
