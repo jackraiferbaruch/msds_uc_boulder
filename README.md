@@ -11,6 +11,21 @@ Current topics and sub-topics:
   * Algebra and Differential Calculus for Data Science
   * Essential Linear Algebra for Data Science
   
-- R Programming
-  * R Programming
+- R Programing
+  * R Programing
   * Introduction to R Programming and Tidyverse
+  
+- Python Programing
+  * Functions
+  * Recurssion
+  
+- Algorithms
+  * Algorithms for Indexing
+  * Algorithms for Sorting
+  * Algorithms for Searching
+  * Binary Tree Search
+  * Graphs Breadth First
+  * Graphs Depth First
+  * Greedy Algorithms
+  * Dynamic Programming
+ 
