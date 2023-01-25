@@ -30,5 +30,6 @@ Current topics and sub-topics:
   * Graphs Breadth First
   * Graphs Depth First
   * Greedy Algorithms
+  * Divide and Conquer
   * Dynamic Programming
  
