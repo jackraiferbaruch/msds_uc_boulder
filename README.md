@@ -4,7 +4,7 @@ Archive of notebooks, projects and other personal creations for my MS DS from UC
 
 Will be divided into notebooks and projects by subject, not course.
 
-Notebooks will be named on a per course basis, no quiz or assignment files included.
+Notebooks will be named by course or subject, depending on my humor on a given day.
 
 Current topics and sub-topics:
 - Mathematics
