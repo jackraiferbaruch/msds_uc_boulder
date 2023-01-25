@@ -18,6 +18,7 @@ Current topics and sub-topics:
 - Python Programing
   * Functions
   * Recurssion
+  * Regex
   
 - Algorithms
   * Algorithms for Indexing
